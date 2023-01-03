@@ -46,35 +46,36 @@ h1 {
 
 .dark .dark\:prose-dark h2 {
   font-family: 'Pencerio';
-  color: #ff6699;
+  color: #000;
   font-size:400%;
   text-align:center;
+  font-weight:100
 }
 
 .dark .dark\:prose-dark h3 {
   font-family: 'Cabinet';
-  color: yellow;
+  color: #000;
   font-size:2em;
   text-align:left;
   font-weight:600;
 }
 
 .dark .dark\:prose-dark h4 {
-  font-family: 'Inter var';
+  font-family: 'Cabinet';
   color: green;
   font-size:100%;
   text-align:left;
 }
 
 .dark .dark\:prose-dark h5 {
-  font-family: 'Inter var';
+  font-family: 'Cabinet';
   color: grey;
   font-size:100%;
   text-align:left;
 }
 
 .dark .dark\:prose-dark h6 {
-  font-family: 'Inter var';
+  font-family: 'Cabinet';
   color: purple;
   font-size:100%;
   text-align:left;
@@ -82,7 +83,12 @@ h1 {
 
 .dark .dark\:prose-dark, .dark .dark\:prose-dark strong, .dark .dark\:prose-dark a
 .dark .dark\:prose-dark a code, .dark .dark\:prose-dark code{
-  color:black;}
+  color:black;
+font-family: 'Cabinet';
+  color: purple;
+  font-size:100%;
+  text-align:left;
+font-weight: 600;}
 
 .dark .dark\:prose-dark blockquote{
   font-weight: 500;
