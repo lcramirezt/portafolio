@@ -33,26 +33,14 @@ body {
 }
 
 .dark .dark\:prose-dark a code, .dark .dark\:prose-dark code,
-.dark .dark\:prose-dark h1, .dark .dark\:prose-dark h2,
-.dark .dark\:prose-dark h3, .dark .dark\:prose-dark h4,
-.dark .dark\:prose-dark h3, .dark .dark\:prose-dark h4,
+.dark .dark\:prose-dark h1, .dark .dark\:prose-dark h3, .dark .dark\:prose-dark h4,
+.dark .dark\:prose-dark h5, .dark .dark\:prose-dark h6,
 .dark .dark\:prose-dark, .dark .dark\:prose-dark strong, .dark .dark\:prose-dark a,
 .dark\:prose-dark blockquote {
   color:#ff6699;}
 
 
-b,
-strong,
-h3,
-h4,
-h5,
-h6 {
-  font-variation-settings: 'wght' 650;
-  font-color: #000000;
-}
-
-
-.md\:prose h2 {
+.dark .dark\:prose-dark h2 {
   font-family: 'Pencerio';
   color: #f20a6b;
   font-size:300%;
@@ -69,12 +57,6 @@ small {
   font-size: 50%;
 }
 
-
-# links 
-
-.dark\:prose-dark, .dark\:prose-dark a, .dark\:prose-dark strong {
-  color:#000000;
-}
 
 @media screen and (min-device-pixel-ratio: 1.5),
   screen and (min-resolution: 1.5dppx) {
