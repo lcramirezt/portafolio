@@ -39,7 +39,7 @@ h6 {
   font-variation-settings: 'wght' 650;
 }
 
-h2 {
+.md\:prose h2 {
   font-family: 'Pencerio';
   color: #f20a6b;
   font-size:300%;
