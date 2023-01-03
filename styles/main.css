@@ -32,35 +32,68 @@ body {
   background: #ffffff;
 }
 
-.dark .dark\:prose-dark a code, .dark .dark\:prose-dark code,
-.dark .dark\:prose-dark h1, .dark .dark\:prose-dark h3, .dark .dark\:prose-dark h4,
-.dark .dark\:prose-dark h5, .dark .dark\:prose-dark h6,
-.dark .dark\:prose-dark, .dark .dark\:prose-dark strong, .dark .dark\:prose-dark a, {
-  color:#ff6699;}
+h1 {
+  display:none;
+} 
+
+.dark .dark\:prose-dark h2 {
+  font-family: 'Pencerio';
+  color: #ff6699;
+  font-size:400%;
+  text-align:center;
+  color:#ff6699;
+}
+
+.dark .dark\:prose-dark h3 {
+  font-family: 'Inter var';
+  color: yellow;
+  font-size:100%;
+  text-align:left;
+  color:#ff6699;
+}
+
+.dark .dark\:prose-dark h4 {
+  font-family: 'Inter var';
+  color: green;
+  font-size:100%;
+  text-align:left;
+  color:#ff6699;
+}
+
+.dark .dark\:prose-dark h5 {
+  font-family: 'Inter var';
+  color: grey;
+  font-size:100%;
+  text-align:left;
+  color:#ff6699;
+}
+
+.dark .dark\:prose-dark h6 {
+  font-family: 'Inter var';
+  color: purple;
+  font-size:100%;
+  text-align:left;
+  color:#ff6699;
+}
+
+.dark .dark\:prose-dark, .dark .dark\:prose-dark strong, .dark .dark\:prose-dark a
+.dark .dark\:prose-dark a code, .dark .dark\:prose-dark code{
+  color:black;}
 
 .dark .dark\:prose-dark blockquote{
   font-weight: 500;
 font-style: italic;
 color: blue;
 border-left-width: .15rem;
-border-left-color: #green;
+border-left-color: green;
 quotes: "\201C""\201D""\2018""\2019";
 margin-top: 1.6em;
 margin-bottom: 1.6em;
 padding-left: 1em;}
 
 
-.dark .dark\:prose-dark h2 {
-  font-family: 'Pencerio';
-  color: #f20a6b;
-  font-size:300%;
-  text-align:center;
-  color:#ff6699;
-}
 
-h1 {
-  display:none;
-} 
+
 
 small {
   color: #666666;
