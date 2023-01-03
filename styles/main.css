@@ -39,11 +39,10 @@ h5,
 h6 {
   font-variation-settings: 'wght' 650;
 }
+
 h2 {
   font-family: 'Pencerio';
-  color: #ff6699;
   text-align:center;
-  font-size: 100em;
 }
 
 h1 {
