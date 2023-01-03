@@ -61,11 +61,7 @@ h1 {
 }
 
 .dark .dark\:prose-dark h3 a{
-  font-family: 'Cabinet';
   color: #d41360;
-  font-size:2em;
-  text-align:left;
-  font-weight:600;
 }
 
 .dark .dark\:prose-dark h4 {
