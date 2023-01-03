@@ -29,7 +29,6 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  color: #000000;
   background: #ffffff;
 }
 
@@ -40,6 +39,7 @@ h4,
 h5,
 h6 {
   font-variation-settings: 'wght' 650;
+  color: #000000;
 }
 
 .md\:prose h2 {
@@ -47,14 +47,12 @@ h6 {
   color: #f20a6b;
   font-size:300%;
   text-align:center;
-}
-
-h1 {
-  display:none;
+  color: #000000;
 }
 
 small {
-  color: #f20a6b;
+  color: #666666;
+  font-size: 50%;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
