@@ -36,7 +36,8 @@ body {
 .dark .dark\:prose-dark h1, .dark .dark\:prose-dark h2,
 .dark .dark\:prose-dark h3, .dark .dark\:prose-dark h4,
 .dark .dark\:prose-dark h3, .dark .dark\:prose-dark h4,
-.dark .dark\:prose-dark{
+.dark .dark\:prose-dark, .dark .dark\:prose-dark strong, .dark .dark\:prose-dark a,
+.dark\:prose-dark blockquote {
   color:#ff6699;}
 
 
