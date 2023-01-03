@@ -37,11 +37,11 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  background: #ffffff;
+  background: #DDDDDD;
 }
 
 .container {
-background:grey;
+background:#CCCCCC;
   padding-top:100px;
 }
 
