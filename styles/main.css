@@ -39,14 +39,15 @@ h5,
 h6 {
   font-variation-settings: 'wght' 650;
 }
-h1 {
+h2 {
   font-family: 'Pencerio';
   color: #ff6699;
   text-align:center;
+  font-size: 100em;
 }
 
-h2 {
-  font-size: 1000px;
+h1 {
+  display:none;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
