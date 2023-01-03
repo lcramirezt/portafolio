@@ -3,7 +3,7 @@ const YEAR = new Date().getFullYear()
 export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{YEAR}</time> © Laura Ramírez.
+      <time>{YEAR}</time> © Laura Ramírez. Cabinet Grotest & Pencerio by <a href="https://www.fontshare.com/">Fontshare.</a>
       <style jsx>{`
         a {
           float: right;
