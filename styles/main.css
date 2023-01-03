@@ -13,6 +13,13 @@
   src: url(/fonts/Inter-italic.latin.var.woff2) format('woff2');
   font-named-instance: 'Italic';
 }
+@font-face {
+  font-family: 'Pencerio';
+  font-style: italic;
+  font-display: block;
+  src: url(/fonts/Pencerio-Hairline.woff2) format('woff2');
+  font-named-instance: 'Script
+}
 
 body {
   font-family: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
@@ -34,7 +41,8 @@ h6 {
   font-variation-settings: 'wght' 650;
 }
 h1 {
-  font-variation-settings: 'wght' 850;
+  font-family: 'Pencerio';
+  font-size: 90;
 }
 h2 {
   font-variation-settings: 'wght' 750;
