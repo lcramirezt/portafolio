@@ -81,7 +81,8 @@ h1 {
 .dark .dark\:prose-dark a code, .dark .dark\:prose-dark code{
   font-family: 'Cabinet';
   color: #262626;
-  font-size:100%;
+  font-size:1.5em;
+  line-height:2em; 
   text-align:left;
 font-weight: 600;}
 
