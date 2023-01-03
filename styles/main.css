@@ -41,39 +41,34 @@ h1 {
   color: #ff6699;
   font-size:400%;
   text-align:center;
-  color:#ff6699;
 }
 
 .dark .dark\:prose-dark h3 {
   font-family: 'Inter var';
-  color: "yellow";
+  color: yellow;
   font-size:100%;
   text-align:left;
-  color:#ff6699;
 }
 
 .dark .dark\:prose-dark h4 {
   font-family: 'Inter var';
-  color: "green";
+  color: green;
   font-size:100%;
   text-align:left;
-  color:#ff6699;
 }
 
 .dark .dark\:prose-dark h5 {
   font-family: 'Inter var';
-  color: "grey";
+  color: grey;
   font-size:100%;
   text-align:left;
-  color:#ff6699;
 }
 
 .dark .dark\:prose-dark h6 {
   font-family: 'Inter var';
-  color: "purple";
+  color: purple;
   font-size:100%;
   text-align:left;
-  color:#ff6699;
 }
 
 .dark .dark\:prose-dark, .dark .dark\:prose-dark strong, .dark .dark\:prose-dark a
