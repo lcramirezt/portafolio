@@ -55,6 +55,7 @@ h1 {
 
 .dark .dark\:prose-dark h3 a{
   color: #d41360;
+  cursor: crosshair;
 }
 
 .dark .dark\:prose-dark h4 {
@@ -97,9 +98,6 @@ quotes: "\201C""\201D""\2018""\2019";
 margin-top: 1.6em;
 margin-bottom: 1.6em;
 padding-left: 1em;}
-
-
-
 
 
 small {
