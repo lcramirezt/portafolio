@@ -77,8 +77,9 @@ body {
   font-family: 'Pencerio';
   color: #d41360;
   font-size:5.5em;
-  line-height:5.25em;
+  line-height:0.25em;
   text-align:center;
+  display:none;
 }
 
 .dark .dark\:prose-dark, .dark .dark\:prose-dark strong, .dark .dark\:prose-dark a
@@ -141,4 +142,8 @@ img.next-image {
   color: #262626;
   text-transform: uppercase;
   letter-spacing: 0.2em
+}
+
+.nav-line {
+  display: none;
 }
