@@ -40,8 +40,8 @@ h1 {
 .dark .dark\:prose-dark h2 {
   font-family: 'Pencerio';
   color: #d41360;
-  font-size:4em;
-  line-height:4.25em;
+  font-size:5.5em;
+  line-height:5.75em;
   text-align:left;
 }
 
@@ -55,6 +55,7 @@ h1 {
 }
 
 .dark .dark\:prose-dark h3 a{
+  color: #262626;
   text-decoration: underline #d41360;
   cursor: crosshair;
 }
@@ -72,7 +73,6 @@ h1 {
   color: #262626;
   font-weight: 300;
   text-decoration: underline #d41360;
-  font-size:100%;
   font-size: 1.25em;
   line-height: 1.5em; 
 }
@@ -80,8 +80,8 @@ h1 {
 .dark .dark\:prose-dark h6 {
   font-family: 'Pencerio';
   color: #d41360;
-  font-size:4em;
-  line-height:4.25em;
+  font-size:5.5em;
+  line-height:5.25em;
   text-align:center;
 }
 
@@ -90,7 +90,7 @@ h1 {
   font-family: 'Cabinet';
   color: #262626;
   font-size:1em;
-  line-height:1.25em; 
+  line-height:1.4em; 
   text-align:left;
 font-weight: 600;}
 
@@ -109,6 +109,14 @@ padding-left: 1em;}
 small {
   color: #666666;
   font-size: 50%;
+}
+
+.dark .meta .tag{
+  font-weight: 300;
+  background-color:none;
+  font-size: 0.7em;
+  color: #262626;
+ text-decoration: underline #d41360;
 }
 
 
