@@ -41,7 +41,7 @@ h1 {
   font-family: 'Pencerio';
   color: #d41360;
   font-size:5.5em;
-  line-height:5.75em;
+  line-height:1em;
   text-align:left;
 }
 
@@ -49,7 +49,7 @@ h1 {
   font-family: 'Cabinet';
   color: #262626;
   font-size:2em;
-  line-height:2.25em;
+  line-height:1em;
   text-align:left;
   font-weight:300;
 }
@@ -113,8 +113,8 @@ small {
 
 .dark .meta .tag{
   font-weight: 300;
-  background-color:none;
-  font-size: 0.7em;
+  background-color:#EEEEEE;
+  font-size: 1em;
   color: #262626;
  text-decoration: underline #d41360;
 }
